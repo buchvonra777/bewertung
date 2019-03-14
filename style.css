@@ -409,13 +409,11 @@ a.button2:hover{
 
 .feature_section .leftside{
 	float:left;
-	width:390px;
 	margin:0 0 0 35px;
 	}
 
 .feature_section .leftside img{
 	float:right;
-	width: 420px;
 	}
 
 .feature_section .rightside{
