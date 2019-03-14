@@ -410,6 +410,8 @@ a.button2:hover{
 .feature_section .leftside{
 	float:left;
 	margin:0 0 0 35px;
+	width:420px;
+	height:400px;
 	}
 
 .feature_section .leftside img{
@@ -550,7 +552,7 @@ a.button4:hover{
 	}
 
 img.imagethumb2{
-	margin:100px 0 0 10px;
+	 /*margin:100px 0 0 10px;*/
 	}
 	
 	
@@ -564,6 +566,7 @@ img.imagethumb2{
 .ano_feature_section .rightside{
 	float:right;
 	margin:0 35px 0 0;
+	width:350px;
 	}
 	
 /*============== Frequently Asked Section =================*/
